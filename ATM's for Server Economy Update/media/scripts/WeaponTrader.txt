@@ -21,7 +21,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Sarten Dinero
     {
-        destroy Money=5,
+        destroy Money=30,
         keep WeaponTrader,
 
         Result:	Base.Pan,
@@ -33,7 +33,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Katana Dinero
     {
-        destroy Money=100,
+        destroy Money=500,
         keep WeaponTrader,
 
         Result: Base.Katana,
@@ -45,7 +45,7 @@ module AutomaticEconomyTrader {
 
 	recipe Machete Dinero
     {
-        destroy Money=65,
+        destroy Money=100,
         keep WeaponTrader,
 
         Result: Machete,
@@ -57,7 +57,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Carnicero Dinero
     {
-        destroy Money=8,
+        destroy Money=25,
         keep WeaponTrader,
 
         Result: Base.MeatCleaver,
@@ -69,7 +69,7 @@ module AutomaticEconomyTrader {
 	
 	recipe CCaza Dinero
     {
-        destroy Money=10,
+        destroy Money=20,
         keep WeaponTrader,
 
         Result: Base.HuntingKnife,
@@ -93,7 +93,7 @@ module AutomaticEconomyTrader {
 
 	recipe Cartuchos Escopeta Dinero
     {
-        destroy Money=20,
+        destroy Money=30,
         keep WeaponTrader,
 
         Result: Base.ShotgunShellsBox,
@@ -165,7 +165,7 @@ module AutomaticEconomyTrader {
 
 	recipe Balas M911 Dinero
     {
-        destroy Money=10,
+        destroy Money=20,
         keep WeaponTrader,
 
         Result: Base.Bullets9mmBox,

@@ -1,10 +1,10 @@
 Recipes_EN = {
 	
-	Recipe_Comida_ligera_por_Dinero = "Light Food for Money(3)",
-	Recipe_Comida_enlatada_por_Dinero = "Canned Food for Money(4)",
-	Recipe_Soda_por_Dinero = "Soda for Money(1)",
-	Recipe_Agua_por_Dinero = "Water for Money(2)",
-	Recipe_Abrelatas_por_Dinero = "Can opener for Money(2)",
+	Recipe_Comida_ligera_por_Dinero = "Canned Sardines for Money(30)",
+	Recipe_Comida_enlatada_por_Dinero = "Canned Bolognese for Money(40)",
+	Recipe_Soda_por_Dinero = "Pop for Money(10)",
+	Recipe_Agua_por_Dinero = "Water Bottle for Money(20)",
+	Recipe_Abrelatas_por_Dinero = "Can opener for Money(20)",
 	
 	/*Jewerly*/
 	Recipe_Centavos_por_Dinero = "Pennies(10) for Money(1)",
@@ -14,41 +14,41 @@ Recipes_EN = {
 	Recipe_Dinero_Amuletos = "Money(5)for DogTags and Lockets",
 	
 	/*Weapons*/
-	Recipe_Sarten_Dinero = "Frying Pan for Money(5)",
-	Recipe_Katana_Dinero = "Katana for Money(100)",
-	Recipe_Machete_Dinero = "Machete for Money(65)",
-	Recipe_Carnicero_Dinero = "Butcher's Knife for Money(8)",
-	Recipe_CCaza_Dinero = "Hunting Knife for Money(10)",
+	Recipe_Sarten_Dinero = "Frying Pan for Money(30)",
+	Recipe_Katana_Dinero = "Katana for Money(500)",
+	Recipe_Machete_Dinero = "Machete for Money(100)",
+	Recipe_Carnicero_Dinero = "Meat Cleaver for Money(25)",
+	Recipe_CCaza_Dinero = "Hunting Knife for Money(20)",
 	Recipe_Escopeta_Dinero = "Shotgun for Money(30)",
-	Recipe_Cartuchos_Escopeta_Dinero = "Box of Shotgun Shells for Money(20)",
+	Recipe_Cartuchos_Escopeta_Dinero = "Box of Shotgun Shells for Money(30)",
 	Recipe_M16_Dinero = "M16 for Money(80)",
 	Recipe_Cartucho_M16_Dinero = "M16's Clip(Empty) for Money(20)",
 	Recipe_Balas_M16_Dinero = "Box of 5.56 Rounds (M16) for Money(42)",
 	Recipe_M911_Dinero = "Pistol (M911) for Money(12)",
 	Recipe_Cartucho_M911_Dinero = "Pistol's Clip (M911) for Money(5)",
-	Recipe_Balas_M911_Dinero = "Box of 9mm rounds(Pistol - M911) for Money(10)",
+	Recipe_Balas_M911_Dinero = "Box of 9mm rounds(Pistol - M911) for Money(20)",
 	
 	/*Tools*/
 	
 		/*Two handed*/
-	Recipe_Hacha_por_Dinero = "Axe for Money(30)",
-	Recipe_Almadena_Dinero = "Sledgehammer for Money(50)",
-	Recipe_Palanca_Dinero = "Crowbar for Money(15)",
+	Recipe_Hacha_por_Dinero = "Axe for Money(50)",
+	Recipe_Almadena_Dinero = "Sledgehammer for Money(250)",
+	Recipe_Palanca_Dinero = "Crowbar for Money(30)",
 	Recipe_Soplete_por_Dinero = "Blowtorch for Money(10)",
 	
 		/*Materials*/
 	Recipe_Chapa_por_Dinero = "Metal Sheet for Money(10)",
-	Recipe_Chapa_small_por_Dinero = "Small Metal Sheet for Money(10)",
+	Recipe_Chapa_small_por_Dinero = "Small Metal Sheet for Money(5)",
 	
 		/*Several Tools*/
 	Recipe_Gato_por_Dinero = "Jack for Money(5)",
 	Recipe_TirePump_por_Dinero = "Tire Pump for Money(5)",
 	Recipe_LlaveCruz_por_Dinero = "Wrench for Money(5)",
-	Recipe_LlaveTubos_por_Dinero = "PipeWrench for Money(10)",
+	Recipe_LlaveTubos_por_Dinero = "PipeWrench for Money(20)",
 	Recipe_BatteryCharger_Dinero = "Battery Charger for Money(10)",
-	Recipe_Propano_Dinero = "Propane Tank for Money(15)",
-	Recipe_Weldingmask_por_Dinero = "Welding Mask for Money(10)",
-	Recipe_GasFull_por_Dinero = "Full Petrol Can for Money(20)",
+	Recipe_Propano_Dinero = "Propane Tank for Money(50)",
+	Recipe_Weldingmask_por_Dinero = "Welding Mask for Money(30)",
+	Recipe_GasFull_por_Dinero = "Full Petrol Can for Money(100)",
 	
 	/*Mechanic*/
 	

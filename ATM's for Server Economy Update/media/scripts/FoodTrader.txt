@@ -20,7 +20,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Comida ligera por Dinero
     {
-        destroy Money=3,
+        destroy Money=30,
         keep FoodTrader,
 
         Result:	Base.CannedSardines,
@@ -32,7 +32,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Comida enlatada por Dinero
     {
-        destroy Money=4,
+        destroy Money=40,
         keep FoodTrader,
 
         Result:	Base.CannedBolognese,
@@ -44,7 +44,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Soda por Dinero
     {
-        destroy Money=1,
+        destroy Money=10,
         keep FoodTrader,
 
         Result:	Base.Pop2,
@@ -56,7 +56,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Agua por Dinero
     {
-        destroy Money=2,
+        destroy Money=20,
         keep FoodTrader,
 
         Result:	Base.WaterBottleFull,
@@ -68,7 +68,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Abrelatas por Dinero
     {
-        destroy Money=2,
+        destroy Money=20,
         keep FoodTrader,
 
         Result:	Base.TinOpener,

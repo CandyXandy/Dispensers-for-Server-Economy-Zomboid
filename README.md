@@ -1,4 +1,3 @@
-# Dispencers-for-Server-Economy-Zomboid
-A mod for Project Zomboid
-Please send me a notificaction and give credits if you want to use this code or fbx for your own mod.
-Why not give suggestions, and make a better mod? We are listening!
+# Dispensers for Project Zomboid
+
+A fork of [ATM's for Server Economy] (https://steamcommunity.com/sharedfiles/filedetails/?id=2805213022) mod by Peter Chambers for Project Zomboid

@@ -20,7 +20,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Hacha por Dinero
     {
-        destroy Money=30,
+        destroy Money=50,
         keep ToolTrader,
 
         Result:	Base.Axe,
@@ -68,7 +68,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Weldingmask por Dinero
     {
-        destroy Money=10,
+        destroy Money=30,
         keep ToolTrader,
 
         Result:	Base.WeldingMask,
@@ -80,7 +80,7 @@ module AutomaticEconomyTrader {
 	
 	recipe GasFull por Dinero
     {
-        destroy Money=20,
+        destroy Money=100,
         keep ToolTrader,
 
         Result:	Base.PetrolCan,
@@ -128,7 +128,7 @@ module AutomaticEconomyTrader {
 	
 	recipe LlaveTubos por Dinero
     {
-        destroy Money=10,
+        destroy Money=20,
         keep ToolTrader,
 
         Result:	Base.PipeWrench,
@@ -152,7 +152,7 @@ module AutomaticEconomyTrader {
 	
 	recipe Propano Dinero
     {
-        destroy Money=15,
+        destroy Money=50,
         keep ToolTrader,
 
         Result:	Base.PropaneTank,
@@ -164,7 +164,7 @@ module AutomaticEconomyTrader {
 	
 		recipe Almadena Dinero
     {
-        destroy Money=50,
+        destroy Money=250,
         keep ToolTrader,
 
         Result:	Base.Sledgehammer,
@@ -176,7 +176,7 @@ module AutomaticEconomyTrader {
 	
 		recipe Palanca Dinero
     {
-        destroy Money=15,
+        destroy Money=30,
         keep ToolTrader,
 
         Result:	Base.Crowbar,
